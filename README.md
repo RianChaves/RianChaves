@@ -1,4 +1,4 @@
-# Olá, eu sou o Rian e no momento sou estudante de ADS 
+# Olá, eu sou o Rian e no momento sou estudante de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
 
 ## Conhecimentos
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
